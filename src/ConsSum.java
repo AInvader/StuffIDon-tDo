@@ -1,6 +1,6 @@
 class ConsSum {
 	public static void main(String[] args) {
-		int num=17632;
+		int num=33;
 		ConsSumPrinter(num);
 	}
 	private static void ConsSumPrinter(int num) {
