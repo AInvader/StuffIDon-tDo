@@ -1,5 +1,4 @@
-class asciitest
-{
+class asciitest {
 	void main()
 	{
 		int c=0;
