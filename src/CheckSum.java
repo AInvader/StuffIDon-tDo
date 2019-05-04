@@ -51,7 +51,6 @@ class CheckSum {
         }
         return c;
     }
-
     private static int[] putInArray(long n) {
         int c = 0;
         int[] a = new int[digcount(n)];
