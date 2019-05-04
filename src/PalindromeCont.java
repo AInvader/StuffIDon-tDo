@@ -18,10 +18,7 @@ class PalindromeCont {
 		}
 	}
 	static boolean isPalindrome(int n) {
-		if (n==reverse(n))
-			return true;
-		else 
-			return false;
+		return n == reverse(n);
 	}
 	static int reverse (int n) {
 		int rev=0;

@@ -1,4 +1,3 @@
-import java.util.*;
 public class isbnfunc
 {
 	public static void main(String[] args)
@@ -25,10 +24,7 @@ public class isbnfunc
             s=s+(d2*c);
             reverse=reverse/10;
         }
-		if (s%11==0)
-			return true;
-		else
-			return false;
+        return s % 11 == 0;
     }
     
 }

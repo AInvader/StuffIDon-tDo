@@ -1,7 +1,7 @@
 public class DescendingOrder {
 	public static int sortDesc(int num) {
 		int desc = 0;
-		int a[] = new int[digcount(num)];
+		int[] a = new int[digcount(num)];
 		int c = 0;
 		while (num > 0) {
 			int d = num % 10;

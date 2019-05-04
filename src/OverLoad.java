@@ -1,5 +1,5 @@
 class OverLoad {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		OverLoad ob=new OverLoad();
 		System.out.println(ob.area(5));
 		System.out.println(ob.area(5,6));
