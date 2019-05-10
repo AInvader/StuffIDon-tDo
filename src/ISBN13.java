@@ -13,17 +13,16 @@ class ISBN13 {
 
     private static boolean isValid(long n) {
         int sum = 0;
-        int c = 12;
-        int[] multiplier = {1, 3};
+        int c = 12;        
         long check = n % 10;
         n = n / 10;
         while (c >= 1) {
             long d = n % 10;
             n = n / 10;
             if (c % 2 == 0)
-                sum = sum + (int) d * multiplier[1];
+                sum += (int) d * 3;
             else
-                sum = sum + (int) d * multiplier[0];
+                sum += (int) d * 1;
             c--;
         }
         return (sum + check) % 10 == 0;
