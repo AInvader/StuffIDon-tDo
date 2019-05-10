@@ -22,7 +22,7 @@ class ISBN13 {
             if (c % 2 == 0)
                 sum += (int) d * 3;
             else
-                sum += (int) d * 1;
+                sum += (int) d;
             c--;
         }
         return (sum + check) % 10 == 0;
