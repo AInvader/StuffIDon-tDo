@@ -1,5 +1,5 @@
-public class DescendingOrder {
-	public static int sortDesc(int num) {
+class DescendingOrder {
+	private static int sortDesc(int num) {
 		int desc = 0;
 		int[] a = new int[digcount(num)];
 		int c = 0;
@@ -20,14 +20,14 @@ public class DescendingOrder {
 			}
 		}
 		int power = a.length - 1;
-		for (int i = 0; i < a.length; i++) {
-			desc = desc + a[i] * ((int) (Math.pow(10, power)));
+		for (int value : a) {
+			desc = desc + value * ((int) (Math.pow(10, power)));
 			power--;
 		}
 		return desc;
 	}
 
-	public static int digcount(int num) {
+	private static int digcount(int num) {
 		int c = 0;
 		while (num > 0) {
 			c++;

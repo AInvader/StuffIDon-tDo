@@ -1,17 +1,7 @@
-public class Line 
-{
-  public static String Tickets(int[] peopleInLine)
-  {
-        //Your code is here...
-        int change =0;        
-        for (int i=0;i<peopleInLine.length;i++)
-        {
-              change=change+peopleInLine[i];
-              if (peopleInLine[i]>25)
-              		change=change-(peopleInLine[i]-25);                  
-              if (peopleInLine[i]-25>change)
-              		return "NO";  
-        }
-        return "YES";        
-  }
-}
+// --Commented out by Inspection START (19-06-2019 21:40):
+// --Commented out by Inspection START (19-06-2019 21:40):
+// --Commented out by Inspection STOP (19-06-2019 21:40)
+//class Line
+//{
+// --Commented out by Inspection STOP (19-06-2019 21:40)
+//}

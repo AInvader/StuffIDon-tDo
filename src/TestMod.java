@@ -1,5 +1,5 @@
 
-public class TestMod {
+class TestMod {
 	public static void main(String[] args) {
 		int test =  20;
 		int ans = test%10;

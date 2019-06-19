@@ -53,11 +53,10 @@ class SetSplit
 				else 
 				{
 					System.out.println("False");
-					continue;
-				}			
+				}
 		}
 	}
-	private static int[] Sort(int[] x)
+	private static void Sort(int[] x)
 	{
 		for (int i=0;i<x.length;i++)
 		{
@@ -71,8 +70,7 @@ class SetSplit
 				}
 			}
 		}
-		return x;		
-	}
+    }
 	private static int[] findSplitIndices(int x)
 	{
 		int arrlen=(x-1)*2;

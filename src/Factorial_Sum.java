@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial_Sum {
+class Factorial_Sum {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int s=0,n=sc.nextInt();
@@ -10,7 +10,7 @@ public class Factorial_Sum {
             s=s+f;
         }
         System.out.println(s);}
-    public static int factorial (int x)
+    private static int factorial(int x)
     {
         int f=1;
         for (int i=1;i<=x;i++)

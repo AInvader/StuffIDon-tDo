@@ -1,4 +1,4 @@
-public class StringTest {
+class StringTest {
 	public static void main(String[] args) {
 		int[] a = {1, 2, 3, 4, 5};
 		System.out.println(IntegerArraytoString(a));
@@ -9,15 +9,14 @@ public class StringTest {
 		for(int i=0;i<x.length;i++) {
 			a[i]=(char)(x[i]+48);
 		}
-		String s=String.valueOf(a);
-		return s;
+        return String.valueOf(a);
 	}
 	public static String StringRev (String s) {
-		String rev="";
+		StringBuilder rev= new StringBuilder();
 		for (int i=s.length()-1;i>=0;i--) {
-			rev=rev+s.charAt(i);
+			rev.append(s.charAt(i));
 		}
-		return rev;
+		return rev.toString();
 	}
 }
 

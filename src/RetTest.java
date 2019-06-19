@@ -3,16 +3,15 @@ class RetTest
 	public static void main(String[] args) 
 	{
 		boolean b=false;
-		int ans =function(b);	
+		int ans =function(false);
 	}
-	public static int function(boolean b)
+	private static int function(boolean b)
 	{
-		if (b==true)
+		if (b)
 			return 1;
 		else 
 		{
-			b=true;
-			function(b);
+			function(true);
 		}
 		return 0;
 	}

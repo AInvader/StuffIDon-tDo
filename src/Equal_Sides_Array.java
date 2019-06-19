@@ -1,5 +1,5 @@
-public class Equal_Sides_Array {
-  public static int findEvenIndex(int[] arr) {
+class Equal_Sides_Array {
+  private static int findEvenIndex(int[] arr) {
       int sum1=0;int sum2=0;
       for (int i=0;i<arr.length;i++)
       {
@@ -12,8 +12,6 @@ public class Equal_Sides_Array {
             sum2=sum2+arr[k];
           }
           if (sum1==sum2) {
-              sum1=0;
-              sum2=0;
               return i;
           }
           else {

@@ -1,21 +1,20 @@
 import java.util.*;
 class construct
 {
-     
-        int copy; int d; int rev; int n;
-        void construct()
+
+    private int d; private int rev; private int n;
+        private construct()
         {
-            copy=n;
             d=0;
             rev=0;
         }
-        void getdata()
+        private void getdata()
         {
             Scanner sc=new Scanner(System.in);
             System.out.print("Enter Number");
             n=sc.nextInt();
         }
-        void reverse()
+        private void reverse()
         {
             while(n>0){
             d=n%10;
@@ -23,7 +22,7 @@ class construct
             n=n/10;
         }
         }
-        void showresult()
+        private void showresult()
         {
 	 		System.out.print("Reverse : "+rev);
 	}

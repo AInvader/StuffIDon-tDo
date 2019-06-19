@@ -17,7 +17,7 @@ class Palindromeprob
 		double probperc = prob*100;
 		System.out.print("Percentage is "+(probperc*100)+"%");
 	}
-	public static boolean palindromecheck(long x)
+	private static boolean palindromecheck(long x)
 	{
 		long reverse=0;long copy=x;
 		while (x>0)

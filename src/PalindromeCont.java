@@ -17,10 +17,10 @@ class PalindromeCont {
 			}
 		}
 	}
-	static boolean isPalindrome(int n) {
+	private static boolean isPalindrome(int n) {
 		return n == reverse(n);
 	}
-	static int reverse (int n) {
+	private static int reverse(int n) {
 		int rev=0;
 		while (n>0) {
 			int d=n%10;

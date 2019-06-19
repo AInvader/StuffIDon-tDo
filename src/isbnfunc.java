@@ -1,14 +1,14 @@
-public class isbnfunc
+class isbnfunc
 {
 	public static void main(String[] args)
 	{
 		for (long i=(long)Math.pow(10,10);i<=(long)(Math.pow(10,11))-1;i++) {
-			if (isbncheck(i)==true) {
+			if (isbncheck(i)) {
 				System.out.println(i);
 			}
 		}
 	} 
-	public static boolean isbncheck(long x)
+	private static boolean isbncheck(long x)
 	{
 		long s=0;int c=0;long reverse=0;
 		while (x>0)

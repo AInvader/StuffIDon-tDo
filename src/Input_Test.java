@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Input_Test {
+class Input_Test {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Number : ");

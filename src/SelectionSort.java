@@ -1,4 +1,4 @@
-public class SelectionSort {
+class SelectionSort {
 	public static void main(String[] args) {
 		int[] a = {77, 12, 67, 80, -3};
 		for (int i=0;i<a.length;i++) {

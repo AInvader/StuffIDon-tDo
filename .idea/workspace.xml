@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="" />
+    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/khatu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlphabeticalOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AutoNumFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutoNumFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicCurrencyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicCurrencyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuddyPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BufferedR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BufferedR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buzz_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buzz_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caesar_Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caesar_Cipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Capital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Capital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diagonal_Difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diagonal_Difference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Disarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Disarium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EclipseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EclipseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Equal_Sides_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equal_Sides_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstCapital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstCapital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFG1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GFG1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ISBN10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ISBN10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Left_Right.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Left_Right.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maskify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maskify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Math_Func_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math_Func_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oddproduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oddproduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OverLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OverLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeCont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeCont.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PassStren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PassStren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PasswordCheckEclipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PasswordCheckEclipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PentagonalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PentagonalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prime_Hundred.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prime_Hundred.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuadSolve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuadSolve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RailwayTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RailwayTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomRelease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomRelease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeatNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeatNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spiral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spiral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubjectMarksTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubjectMarksTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System_Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/System_Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwinPrimeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwinPrimeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Twin_Prime2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Twin_Prime2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unique_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unique_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/asciitest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/asciitest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubblesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubbletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubbletest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isbnfunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isbnfunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindromeprob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromeprob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ticatactoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ticatactoe.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +105,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Reverser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unique_Digits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Clock_Words.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -77,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/PassStren.java" />
         <option value="$PROJECT_DIR$/src/DictionarySort.java" />
         <option value="$PROJECT_DIR$/src/Reverser.java" />
+        <option value="$PROJECT_DIR$/src/Unique_Digits.java" />
+        <option value="$PROJECT_DIR$/src/Clock_Words.java" />
       </list>
     </option>
   </component>
@@ -92,6 +191,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,14 +214,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,9 +234,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Unique_Digits">
-    <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckSum" />
+  <component name="RunManager" selected="Application.Clock_Words">
+    <configuration name="Clock_Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clock_Words" />
       <module name="StuffIDon'tDo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clock_Words" />
         <item itemvalue="Application.Unique_Digits" />
         <item itemvalue="Application.Reverser" />
         <item itemvalue="Application.Dictionary" />
         <item itemvalue="Application.ISBN13" />
-        <item itemvalue="Application.CheckSum" />
       </list>
     </recent_temporary>
   </component>
@@ -267,18 +366,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.28150135" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.2855228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.1541555" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50070524" side_tool="true" weight="0.28150135" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.5218618" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44569817" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40197462" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19605078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34696755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -580,6 +681,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unique_Digits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clock_Words.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
         </state>
       </provider>
     </entry>

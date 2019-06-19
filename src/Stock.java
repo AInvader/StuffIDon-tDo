@@ -3,7 +3,7 @@ class Stock {
 	private String name;
 	private int quantity;
 	private double rate;
-	private static Scanner sc=new Scanner(System.in);
+	private static final Scanner sc=new Scanner(System.in);
 	private Stock() {
 		name="";
 		quantity=0;

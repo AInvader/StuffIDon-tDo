@@ -1,9 +1,9 @@
 import java.util.Scanner;
 class Security {
-	String n;
-	static int h;
-	double r;
-	double w;
+	private String n;
+	private static int h;
+	private double r;
+	private double w;
 	private void get() {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Name : ");
@@ -17,9 +17,9 @@ class Security {
 	private void calwage() {
 		if (h<=40.0)
 			w=h*r;
-		else if (h>40.0 && h<=60.0)
+		else if (h <= 60.0)
 			w=1.5*h*r;
-		else if (h>60.0 && h<=70)
+		else if (h <= 70)
 			w=2*h*r;
 	}
 	private void display() {

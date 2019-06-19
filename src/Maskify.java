@@ -1,20 +1,20 @@
 import java.util.Scanner;
 
-public class Maskify
+class Maskify
 {
-    public static String maskify(String str) 
+    private static String maskify(String str)
     {        
         int len=str.length();
-        String mask= "";
+        StringBuilder mask= new StringBuilder();
         for (int i=0;i<len-4;i++)
         {
-            mask=mask+"#";
+            mask.append("#");
         }
         for (int i=len-4;i<len;i++)
         {
-            mask=mask+str.charAt(i);
+            mask.append(str.charAt(i));
         }
-        return mask;
+        return mask.toString();
     }
     public static void main(String[] args)
     {

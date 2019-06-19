@@ -1,12 +1,11 @@
 // Java program to split an array 
-// into two equal sum subarrays 
-import java.io.*; 
+// into two equal sum subarrays
 
 class GFG1 { 
 
 	// Returns split point. If 
 	// not possible, then return -1. 
-	static int findSplitPoint(int[] arr, int n)
+	private static int findSplitPoint(int[] arr, int n)
 	{ 
 	
 	int leftSum = 0 ; 
@@ -36,7 +35,7 @@ class GFG1 {
 
 	// Prints two parts after finding 
 	// split point using findSplitPoint() 
-	static void printTwoParts(int[] arr, int n)
+	private static void printTwoParts(int[] arr, int n)
 	{ 
 	
 		int splitPoint = findSplitPoint(arr, n); 

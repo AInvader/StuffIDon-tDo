@@ -8,17 +8,17 @@ class Capital {
         System.out.print(Capitalize(s));
     }
 
-    public static String Capitalize(String x) {
-        String ret = "";
-        ret = ret + Character.toUpperCase(x.charAt(0));
+    private static String Capitalize(String x) {
+        StringBuilder ret = new StringBuilder();
+        ret.append(Character.toUpperCase(x.charAt(0)));
         for (int i = 1; i < x.length(); i++) {
             if (x.charAt(i) == ' ') {
-                ret = ret + " ";
-                ret = ret + Character.toUpperCase(x.charAt(i + 1));
+                ret.append(" ");
+                ret.append(Character.toUpperCase(x.charAt(i + 1)));
                 i++;
             } else
-                ret = ret + x.charAt(i);
+                ret.append(x.charAt(i));
         }
-        return ret;
+        return ret.toString();
     }
 }

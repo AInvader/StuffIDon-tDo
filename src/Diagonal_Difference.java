@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Diagonal_Difference {
+class Diagonal_Difference {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Size of Matrix : ");
@@ -25,12 +25,12 @@ public class Diagonal_Difference {
         System.out.print("Difference = " + diff);
     }
 
-    public static void displayMatrix(int[][] x) {
+    private static void displayMatrix(int[][] x) {
         int rows = x.length;
         int col = x[0].length;
-        for (int i = 0; i < rows; i++) {
+        for (int[] ints : x) {
             for (int j = 0; j < col; j++) {
-                System.out.print(x[i][j] + " ");
+                System.out.print(ints[j] + " ");
             }
             System.out.println();
         }

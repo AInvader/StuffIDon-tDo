@@ -11,7 +11,7 @@ class Unique_Digits {
 		}
 	}
 	private static boolean isUnique(int n) {
-		int a[]=new int[digcount(n)];
+		int[] a = new int[digcount(n)];
 		int c=0;
 		while (n>0) {
 			int d=n%10;

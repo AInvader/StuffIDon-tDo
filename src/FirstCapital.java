@@ -7,18 +7,18 @@ class FirstCapital {
         s=s.trim();
         char first=s.charAt(0);
         first=Character.toUpperCase(first);
-        String capital="";
+        StringBuilder capital= new StringBuilder();
         for(int i=1;i<s.length();i++) {
             char ch=s.charAt(i);
             if (ch==' ') {
-                char nextchar=s.charAt(i+1);
+                char nextchar;
                 nextchar=Character.toUpperCase(s.charAt(i+1));
-                capital=capital+" "+nextchar;
+                capital.append(" ").append(nextchar);
                 ++i;
             }
             else
-                capital=capital+s.charAt(i);
+                capital.append(s.charAt(i));
         }
-        System.out.print(first+capital);
+        System.out.print(first+ capital.toString());
     }
 }

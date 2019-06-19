@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class System_Convert 
+@SuppressWarnings("UnusedAssignment")
+class System_Convert
 {
 	public static void main(String[] args)
 	{
@@ -47,7 +48,7 @@ class System_Convert
 			{
 				base =16;				
 			}
-			int n2=otherToDecimal(n,base);
+			int n2=otherToDecimal(n);
 			if (convertTo.equalsIgnoreCase("Binary"))
 			{
 				System.out.print(decimalToOther(n2,2));
@@ -62,10 +63,10 @@ class System_Convert
 			}
 		}
 	}
-	static String decimalToOther(int x,int y)
+	private static String decimalToOther(int x, int y)
 	{
-		String s= "";
-		s="";
+		StringBuilder s= new StringBuilder();
+		s = new StringBuilder();
 		while(x>0)
 		{
 
@@ -74,32 +75,31 @@ class System_Convert
 			if (d>=10)
 			{
 				char hexrep=hexrepletters[d-10];
-				s=hexrep+s;
+				s.insert(0, hexrep);
 				x=x/y;
 			}
 			else 
 			{
-				s=d+s;			
+				s.insert(0, d);
 			    x=x/y;
 			}
 		}
-		return s;
+		return s.toString();
 	}	
-	static int otherToDecimal(String x,int y)
+	private static int otherToDecimal(String x)
 	{
 		boolean hex=false;	
 		int num;
 		for (int i=0;i<x.length();i++)
 		{
 			char check=x.charAt(i);			
-			if (Character.isLetter(check)==true)
+			if (Character.isLetter(check))
 				hex=true;
 		}
-		if (hex==false)
+		if (!hex)
 		{
 			num=Integer.valueOf(x);
-			int sum=loopcalc(num,y);
-			return sum;
+			return loopcalc();
 		}
 		else 
 		{
@@ -115,19 +115,12 @@ class System_Convert
 				System.out.println(n1+"hi");
 			}			
 			num=Integer.valueOf(n1);
-			int ans=loopcalc(num,16);
-			return ans;
+			return loopcalc();
 		}
 	}	
-	static int loopcalc(int x,int y)
+	private static int loopcalc()
 	{
-		int c=0;	
-		int sum=0;
-		for (int i=0;i<c;i++)
-		{
-			int d=x%10;
-			sum=sum+d*(int)Math.pow(y,i);
-		}
-		return sum;
+		int c=0;
+		return 0;
 	}
 }

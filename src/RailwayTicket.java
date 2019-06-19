@@ -1,10 +1,10 @@
 import java.util.Scanner;
 class RailwayTicket {
-	String name;
-	String coach;
-	long mobno;
-	int amt;
-	int totalamt;
+	private String name;
+	private String coach;
+	private long mobno;
+	private int amt;
+	private int totalamt;
 	private void accept() {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Name : ");

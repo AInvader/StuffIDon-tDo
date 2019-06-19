@@ -14,7 +14,7 @@ class Attendance {
         for (int i = 0; i < n; i++) {
             first_names[i] = names[i].substring(0, names[i].indexOf(" "));
         }
-        int[] same_counter = new int[n];
+        int[] same_counter;
         same_counter = findSame(first_names);
         for (int i = 0; i < n; i++) {
             if (same_counter[i] > 0) {
@@ -25,7 +25,7 @@ class Attendance {
         }
     }
 
-    public static int[] findSame(String[] s) {
+    private static int[] findSame(String[] s) {
         int[] same_counter = new int[s.length];
         for (int i = 0; i < s.length - 1; i++) {
             for (int j = i + 1; j < s.length; j++) {

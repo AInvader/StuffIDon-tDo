@@ -1,2 +1,2 @@
-public class Sort {
+class Sort {
 }

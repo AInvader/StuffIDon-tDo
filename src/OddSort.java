@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class OddSort {
-	static int c=0;
+	private static int c=0;
 	public static void main(String[] args) {		
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Number of Terms in Array : ");
@@ -24,8 +24,8 @@ class OddSort {
 	}
 
 	public static void printArray(int[] a) {
-		for (int i=0;i<a.length;i++) {
-			System.out.print(a[i]+"  ");
+		for (int value : a) {
+			System.out.print(value + "  ");
 		}
 	}
 
@@ -41,11 +41,10 @@ class OddSort {
 		}
 		return index;
 	}
-	public static int[] swap(int[] a, int i, int j) {
+	public static void swap(int[] a, int i, int j) {
 		int temp=a[i];
 		a[i]=a[j];
 		a[j]=temp;
-		return a;
 	}
 	private static boolean odd(int x) {
 		return x % 2 != 0;

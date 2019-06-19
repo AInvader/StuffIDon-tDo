@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HCF { //Also known as Greatest Common Divisor(GCD)
+class HCF { //Also known as Greatest Common Divisor(GCD)
     public static void main(String[] args) {
         int h=1;
         Scanner sc=new Scanner (System.in);

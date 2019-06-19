@@ -14,7 +14,7 @@ class AutoNumFunc
 			    System.out.println("Not");
 		}
 	}
-	public static boolean AutoCheck(int z)
+	private static boolean AutoCheck(int z)
 	{
 			int c=0;int check=0;		
 			int copy=z;

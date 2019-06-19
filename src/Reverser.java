@@ -3,18 +3,18 @@ class Reverser {
         String s = "Hello, Hello.";
         s = s.trim();
         s = s + " ";
-        String RevString = "";
-        String word = "";
+        StringBuilder RevString = new StringBuilder();
+        StringBuilder word = new StringBuilder();
         char punc = '\u0000';
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) != ' ') {
                 if (!Character.isLetter(s.charAt(i)))
                     punc = s.charAt(i);
                 else
-                    word = word + s.charAt(i);
+                    word.append(s.charAt(i));
             } else {
-                RevString = RevString + Reverse_word(word) + punc + " ";
-                word = "";
+                RevString.append(Reverse_word(word.toString())).append(punc).append(" ");
+                word = new StringBuilder();
                 punc = '\u0000';
             }
         }
@@ -22,10 +22,10 @@ class Reverser {
     }
 
     private static String Reverse_word(String s) {
-        String reversed = "";
+        StringBuilder reversed = new StringBuilder();
         for (int i = s.length() - 1; i >= 0; i--) {
-            reversed = reversed + s.charAt(i);
+            reversed.append(s.charAt(i));
         }
-        return reversed;
+        return reversed.toString();
     }
 }

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class QuadSolve 
+class QuadSolve
 {
 	public static void main(String[] args) 
 	{			
@@ -30,7 +30,7 @@ public class QuadSolve
         System.out.println("Discriminant = "+ans[2]);
 	}
 //-----------------------------------------------------------------
-	public static double[] Solver(int a,int b,int c)
+	private static double[] Solver(int a, int b, int c)
 	{
 		double a1=(double)a;
 		double b1=(double)b;

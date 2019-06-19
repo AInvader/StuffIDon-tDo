@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class Combination
+class Combination
 {
-    static int c=0;
+    private static int c=0;
     public static void main(String[] args) 
     {
         Scanner sc=new Scanner(System.in);
@@ -10,7 +10,7 @@ public class Combination
         int n = str.length();
         combine(str, 0,n-1);
     }    
-    public static void combine(String str, int start, int end)
+    private static void combine(String str, int start, int end)
     {
         if (start == end) {
             System.out.print(str+"  ");
@@ -30,7 +30,7 @@ public class Combination
             } 
         } 
     }    
-    public static String Swap(String str, int i, int j)
+    private static String Swap(String str, int i, int j)
     {         
         char[] word = str.toCharArray();
         char temp = word[i]; 

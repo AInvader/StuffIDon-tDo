@@ -19,7 +19,7 @@ class Search {
 		else 
 			System.out.print("Search Element not found");
 	}
-	public static int[] Sort(int[] x) {
+	private static void Sort(int[] x) {
 		for (int i=0;i<x.length-1;i++) {
 			for (int j=1;j<x.length;j++) {
 				if (x[i]>x[j]) {
@@ -29,14 +29,12 @@ class Search {
 				}
 			}
 		}
-		return x;
 	}
-	public static int[] Search (int[] x, int s) {
+	private Search(int[] x, int s) {
 		int start=0;int end=x.length-1;int mid=(start+end)/2;
 		int[] ret = new int[2];
 		for (int i=0;i<ret.length;i++) {
-			ret[i]=0;
-		}
+        }
 		boolean b;
 		while (start<end) {
 			if (s == x[mid]) {

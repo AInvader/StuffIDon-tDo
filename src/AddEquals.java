@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AddEquals {
+class AddEquals {
     public static void main(String[] args) {
         int sum = 0;
         Scanner sc = new Scanner(System.in);

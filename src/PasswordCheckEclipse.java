@@ -1,13 +1,12 @@
 import java.util.*;
-public class PasswordCheckEclipse {
-    private static Scanner sc;
+class PasswordCheckEclipse {
 
-	public static void main (String[] args)
+    public static void main (String[] args)
     {
         int c=0;
         System.out.println("Enter Password");
-        sc = new Scanner(System.in);
-        String password=sc.nextLine();
+        Scanner sc = new Scanner(System.in);
+        String password= sc.nextLine();
         String check = "SmashMouth";
         if (check.equals(password))
         {

@@ -1,4 +1,4 @@
-public class EclipseTest {
+class EclipseTest {
 	public static void main (String[] args) {
 System.out.println ("Hello World");
 System.out.println("Bbye World");

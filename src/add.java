@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 class add {
-    int a, b, sum;
+    private int a;
+    private int b;
+    private int sum;
 
     public static void main(String[] args) {
         add ob = new add();

@@ -6,10 +6,10 @@ class RandomRelease
 
 		Random rand = new Random();
 		int value = rand.nextInt(7);
-		abc:if (value==0)
+        if (value == 0)
 
 
-		System.out.println(value);
+            System.out.println(value);
 	}
 }	
 

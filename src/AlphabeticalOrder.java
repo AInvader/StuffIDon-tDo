@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class AlphabeticalOrder {
+class AlphabeticalOrder {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("Enter Number of Words : ");
@@ -21,8 +21,8 @@ public class AlphabeticalOrder {
 				}
 			}
 		}
-		for (int i=0;i<a.length;i++) {
-			System.out.print(a[i]+" ");
+		for (String s : a) {
+			System.out.print(s + " ");
 		}
 	}
 }

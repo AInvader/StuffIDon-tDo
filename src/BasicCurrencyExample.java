@@ -1,7 +1,7 @@
 import java.util.Currency;
 import java.util.Locale;
 
-public class BasicCurrencyExample {
+class BasicCurrencyExample {
 	public static void main(String[] args) {
 		Currency curr = Currency.getInstance(Locale.UK);
 		

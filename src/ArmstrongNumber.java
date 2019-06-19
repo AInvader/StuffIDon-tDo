@@ -1,10 +1,9 @@
 import java.util.Scanner;
-public class ArmstrongNumber {
-	private static Scanner sc;
-	public static void main(String[] args) {
-		sc = new Scanner (System.in);
+class ArmstrongNumber {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a number to check for Armstrong");
-		int n=sc.nextInt() ,s=0, copy=n;
+		int n= sc.nextInt() ,s=0, copy=n;
 		while (n>0)
 		{
 			int d=n%10;

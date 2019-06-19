@@ -4,7 +4,7 @@ class Disarium {
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter Number : ");
 		int n=sc.nextInt();
-		if (isDisarium(n)==true)
+		if (isDisarium(n))
 			System.out.println(n+" is a Disarium Number");
 		else 
 			System.out.println(n+" is not a Disarium Number");

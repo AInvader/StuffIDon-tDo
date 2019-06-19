@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Left_Right {
+@SuppressWarnings("UnusedAssignment")
+class Left_Right {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter a Perfect Sqaure : ");
@@ -10,7 +11,6 @@ public class Left_Right {
         int difference = 0; boolean b=false;
         if(digCount(n)>1) {
             difference = digCount(n) - 1;
-            b=true;
         }
 	    int[] colArray = new int[n];
         for (int i=0;i<n;i++) {
@@ -37,7 +37,7 @@ public class Left_Right {
 
         }
     }
-    public static int digCount(int x) {
+    private static int digCount(int x) {
         int c=0;
         while (x>0) {
             c++;
@@ -45,10 +45,12 @@ public class Left_Right {
         }
         return c;
     }
-    public static String Pre_Zero(String x,int diff) {
-        for(int i=1;i<=diff;i++) {
-            x='0'+x;
+    private static String Pre_Zero(String x, int diff) {
+        StringBuilder xBuilder = new StringBuilder(x);
+        for(int i = 1; i<=diff; i++) {
+            xBuilder.insert(0, '0');
         }
+        x = xBuilder.toString();
         return x;
     }
 }

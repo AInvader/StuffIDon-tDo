@@ -1,17 +1,17 @@
 import java.util.Random;
 
-public class Dice {
+class Dice {
 
-    public static  int rollDice(int number, int nSides)
+    private static  int rollDice()
     { 
         int num = 0;
-        int roll = 0;
+        int roll;
         Random  r = new Random(); 
-        if(nSides >=3) 
+        if(6 >=3)
         { 
-            for(int i = 0; i < number; i++)
+            for(int i = 0; i < 3; i++)
             { 
-                roll = r.nextInt(nSides)+1;
+                roll = r.nextInt(6)+1;
                 System.out.println("Roll is:  "+roll);
                 num = num + roll; 
             } 
@@ -25,6 +25,6 @@ public class Dice {
 
     public static void main(String[] args)
     {
-        System.out.println("Total is: "+rollDice(3, 6));
+        System.out.println("Total is: "+rollDice());
     }
 }

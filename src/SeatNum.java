@@ -15,7 +15,7 @@ class SeatNum
     }
     private static int findRows(int x)
     {
-        int rows=0;
+        int rows;
         if (x%6!=0)
             rows=(x/6)+1;
         else 
@@ -25,7 +25,7 @@ class SeatNum
     private static int findColumns(int x)
     {
         int rows=findRows(x);
-        int columns=0;
+        int columns;
         if (rows%2==0)
         {
             int max_seat=6*rows;
@@ -48,7 +48,7 @@ class SeatNum
     }
     private static int findOppSeat(int x)
     {
-        int oppseat=0;
+        int oppseat;
         int rows=findRows(x);
         int columns=findColumns(x);
         if (rows%2!=0)
@@ -72,13 +72,5 @@ class SeatNum
                 SeatNumber=i;
         }
         return SeatNumber;
-    }
-    private static void test()
-    {
-        for (int i=1;i<=24;i++)
-        {
-            System.out.print("Seat Number : "+i+" "+findpos(findColumns(i))+" "+"Opposite Seat : "+findOppSeat(i));
-            System.out.println();
-        }
     }
 }

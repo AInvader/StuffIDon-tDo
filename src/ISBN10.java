@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ISBN10 {
+class ISBN10 {
     public static void main(String[] args) {
         long s=0;long reverse=0;int c = 0;
                 Scanner sc = new Scanner(System.in);
@@ -19,7 +19,7 @@ public class ISBN10 {
         }
         if (s % 11 == 0)
             System.out.println(copy+" is a legal ISBN code");
-        else if (c!=10 || s%11!=0){
+        else {
             System.out.println(copy+" is an illegal ISBN code");}
     }
 }
