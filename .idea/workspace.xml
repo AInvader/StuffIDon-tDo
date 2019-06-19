@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Reverser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="224">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -83,8 +81,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="502" />
-    <option name="y" value="221" />
+    <option name="x" value="501" />
+    <option name="y" value="220" />
     <option name="width" value="1260" />
     <option name="height" value="720" />
   </component>
@@ -137,16 +135,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverser">
+  <component name="RunManager" selected="Application.Unique_Digits">
     <configuration name="CheckSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckSum" />
-      <module name="StuffIDon'tDo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConsSum" />
       <module name="StuffIDon'tDo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,13 +164,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unique_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unique_Digits" />
+      <module name="StuffIDon'tDo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Unique_Digits" />
         <item itemvalue="Application.Reverser" />
         <item itemvalue="Application.Dictionary" />
         <item itemvalue="Application.ISBN13" />
         <item itemvalue="Application.CheckSum" />
-        <item itemvalue="Application.ConsSum" />
       </list>
     </recent_temporary>
   </component>
@@ -257,31 +255,37 @@
       <option name="project" value="LOCAL" />
       <updated>1559834676172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added Reverser.java">
+      <created>1560603364583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560603364583</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.28150135" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.28150135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.1541555" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.28150135" />
+      <window_info id="Favorites" order="6" sideWeight="0.50070524" side_tool="true" weight="0.28150135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44569817" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40197462" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40197462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32863188" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32863188" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.32863188" />
       <window_info anchor="bottom" id="Analyze Dataflow from" order="12" weight="0.32863188" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,6 +327,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -373,7 +380,9 @@
     <MESSAGE value="Added ISBN13.java" />
     <MESSAGE value="Rt" />
     <MESSAGE value="Added DictionarySort.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added DictionarySort.java" />
+    <MESSAGE value="Added Reverser.java" />
+    <MESSAGE value="RT" />
+    <option name="LAST_COMMIT_MESSAGE" value="RT" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -569,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Reverser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="224">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
