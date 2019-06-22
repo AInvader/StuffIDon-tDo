@@ -4,7 +4,85 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="RT" />
+    <list default="true" id="5aa64d4a-e4fe-498e-b9cf-9d3e5e3cd449" name="Default Changelist" comment="RT">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AddEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AddEquals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AlphabeticalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AlphabeticalOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ArmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Attendance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Attendance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AutoNumFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/AutoNumFunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/BasicCurrencyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/BasicCurrencyExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/BuddyPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/BufferedR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/BufferedR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Buzz_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Buzz_Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Caesar_Cipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Caesar_Cipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Capital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Capital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Clock_Words.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Clock_Words.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Combination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/DescendingOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/DescendingOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Diagonal_Difference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Diagonal_Difference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Disarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Disarium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/EclipseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/EclipseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Equal_Sides_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Equal_Sides_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Factorial_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Factorial_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/FirstCapital.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/FirstCapital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/GFG1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/GFG1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/HCF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/HCF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ISBN10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ISBN10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Input_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Input_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Insert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/LCM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Left_Right.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Left_Right.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Maskify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Maskify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Math_Func_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Math_Func_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/OddSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/OddSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Oddproduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Oddproduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/OverLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PalindromeCont.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PalindromeCont.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Palindromeprob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Palindromeprob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PassStren.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PassStren.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PasswordCheckEclipse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PasswordCheckEclipse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PentagonalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/PentagonalNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Prime_Hundred.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Prime_Hundred.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/QuadSolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/QuadSolve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RailwayTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RailwayTicket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RemoveDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/RetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Reverser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Reverser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Sale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SeatNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SeatNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Security.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Security.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SetSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SetSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Spiral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Spiral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SubjectMarksTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/SubjectMarksTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/System_Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/System_Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TestMod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TestMod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Transpose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Transpose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TwinPrimeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/TwinPrimeCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Twin_Prime2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/Twin_Prime2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/asciitest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/asciitest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/bubblesort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/bubblesort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/bubbletest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/bubbletest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/construct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/isbnfunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/isbnfunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ticatactoe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StuffIDon'tDo/ticatactoe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OverLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +125,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clock_Words.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="296">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SystemDetect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -100,11 +187,13 @@
         <option value="$PROJECT_DIR$/src/Reverser.java" />
         <option value="$PROJECT_DIR$/src/Unique_Digits.java" />
         <option value="$PROJECT_DIR$/src/Clock_Words.java" />
+        <option value="$PROJECT_DIR$/src/Search.java" />
+        <option value="$PROJECT_DIR$/src/SystemDetect.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="501" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="500" />
     <option name="y" value="220" />
     <option name="width" value="1260" />
     <option name="height" value="720" />
@@ -114,8 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,6 +216,12 @@
               <item name="StuffIDon'tDo" type="b2602c69:ProjectViewProjectNode" />
               <item name="StuffIDon'tDo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuffIDon'tDo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuffIDon'tDo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DictionarySort.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="StuffIDon'tDo" type="b2602c69:ProjectViewProjectNode" />
@@ -158,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Clock_Words">
+  <component name="RunManager" selected="Application.SystemDetect">
     <configuration name="Clock_Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clock_Words" />
       <module name="StuffIDon'tDo" />
@@ -173,15 +268,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ISBN13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ISBN13" />
+    <configuration name="Reverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverser" />
       <module name="StuffIDon'tDo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverser" />
+    <configuration name="SystemDetect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemDetect" />
       <module name="StuffIDon'tDo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SystemDetect" />
         <item itemvalue="Application.Clock_Words" />
         <item itemvalue="Application.Unique_Digits" />
         <item itemvalue="Application.Reverser" />
         <item itemvalue="Application.Dictionary" />
-        <item itemvalue="Application.ISBN13" />
       </list>
     </recent_temporary>
   </component>
@@ -291,17 +386,16 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.2855228" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.28954422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.1541555" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50070524" side_tool="true" weight="0.28150135" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.5218618" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19605078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38504937" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34696755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -309,9 +403,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32863188" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32863188" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.056417488" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.32863188" />
       <window_info anchor="bottom" id="Analyze Dataflow from" order="12" weight="0.32863188" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.5218618" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -616,8 +711,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Clock_Words.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="296">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OverLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>

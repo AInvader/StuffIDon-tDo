@@ -30,7 +30,7 @@ class Search {
 			}
 		}
 	}
-	private Search(int[] x, int s) {
+	private static int [] Search(int[] x, int s) {
 		int start=0;int end=x.length-1;int mid=(start+end)/2;
 		int[] ret = new int[2];
 		for (int i=0;i<ret.length;i++) {
