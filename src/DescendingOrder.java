@@ -1,5 +1,6 @@
 class DescendingOrder {
-	private static int sortDesc(int num) {
+	@SuppressWarnings("SameParameterValue")
+    private static int sortDesc(int num) {
 		int desc = 0;
 		int[] a = new int[digcount(num)];
 		int c = 0;

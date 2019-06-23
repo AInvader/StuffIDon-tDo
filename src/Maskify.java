@@ -6,10 +6,7 @@ class Maskify
     {        
         int len=str.length();
         StringBuilder mask= new StringBuilder();
-        for (int i=0;i<len-4;i++)
-        {
-            mask.append("#");
-        }
+        mask.append("#".repeat(Math.max(0, len - 4)));
         for (int i=len-4;i<len;i++)
         {
             mask.append(str.charAt(i));

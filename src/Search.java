@@ -12,7 +12,7 @@ class Search {
 		System.out.print("Enter Search Element : ");
 		int s=sc.nextInt();
 		Sort(a);
-		int[] b = Search(a, s);
+		int[] b = SearchArr(a, s);
 		if (b[0]!=0) {
 			System.out.print("Search Element found at "+b[1]);
 		}
@@ -30,22 +30,20 @@ class Search {
 			}
 		}
 	}
-	private static int [] Search(int[] x, int s) {
+	private static int[] SearchArr(int[] x, int s) {
 		int start=0;int end=x.length-1;int mid=(start+end)/2;
 		int[] ret = new int[2];
 		for (int i=0;i<ret.length;i++) {
-        }
-		boolean b;
-		while (start<end) {
-			if (s == x[mid]) {
-				ret[0]=1;				
-				ret[1]=mid;
+			while (start < end) {
+				if (s == x[mid]) {
+					ret[0] = 1;
+					ret[1] = mid;
+				} else if (s < x[mid])
+					end = mid - 1;
+				else
+					start = mid + 1;
+				mid = (start + end) / 2;
 			}
-			else if(s<x[mid]) 
-				end = mid-1;
-			else 
-				start = mid+1;
-			mid=(start+end)/2;
 		}
 		return ret;
 	}	

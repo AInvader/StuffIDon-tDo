@@ -7,7 +7,6 @@ class SeatNum
         System.out.print("Enter Seat Number : ");
         int seat=sc.nextInt();
         int columns=findColumns(seat);
-        int rows=findRows(seat);
         String seatpos=findpos(columns);
         System.out.println(seatpos+" seat");
         int oppseat=findOppSeat(seat);
