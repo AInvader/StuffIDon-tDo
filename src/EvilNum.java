@@ -6,6 +6,7 @@ class EvilNum {
         System.out.print("Enter Number : ");
         int n = sc.nextInt();
         int bin = toBinary(n);
+        System.out.println("Binary : " + bin);
         if (isEvil(bin))
             System.out.print("Evil Number");
         else
@@ -15,7 +16,7 @@ class EvilNum {
     private static int toBinary(int n) {
         int s = 0;
         while (n > 0) {
-            s = s * 10 + n % 2;
+            s = (s * 10) + (n % 2);
             n = n / 2;
         }
         return (toReversed(s));
