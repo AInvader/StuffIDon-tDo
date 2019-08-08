@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pattern_12
+comment0.text=\r\nABCDEedcba\r\nABCD\ \ dcba\r\nABC\ \ \ \ cba\r\nAB\ \ \ \ \ \ ba\r\nA\ \ \ \ \ \ \ \ a\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
